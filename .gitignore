@@ -1,0 +1,40 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Ignore publish outputs
+publish/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore other unnecessary files
+*.pdb
+*.cache
+*.ilk
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.log
+*.vspscc
+*.vssscc

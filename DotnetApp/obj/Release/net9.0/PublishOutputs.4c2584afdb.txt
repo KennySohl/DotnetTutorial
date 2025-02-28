@@ -1,0 +1,7 @@
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\DotnetApp.exe
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\appsettings.Development.json
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\appsettings.json
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\DotnetApp.dll
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\DotnetApp.deps.json
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\DotnetApp.runtimeconfig.json
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish\DotnetApp.pdb
