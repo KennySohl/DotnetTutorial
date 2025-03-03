@@ -51,7 +51,7 @@ az vm open-port \
 - Get your public IP address from the VM you created in Azure and SSH into it:
 
 ```bash
-/1.Cloud2025/DotnetTutorial/DotnetApp $ ssh azureuser@52.164.204.19
+/1.Cloud2025/DotnetTutorial/DotnetApp $ ssh azureuser@<YOUR_VM_IP_ADRESS>
 ```
 
 - say yes to continue to login
@@ -93,7 +93,7 @@ sudo chown azureuser:azureuser /opt/DotnetApp
 - Right-click on the publish folder and "open in integrated terminal", then use SCP to copy the files to the VM:
 
 ```bash
-C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish> scp -r ./ azureuser@40.69.43.253:/opt/DotnetApp/
+C:\1.Cloud2025\DotnetTutorial\DotnetApp\bin\Release\net9.0\publish> scp -r ./ azureuser@YOUR_VM_IP_ADRESS:/opt/DotnetApp/
 ```
 
 - Login to SSH and type following:
